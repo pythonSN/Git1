@@ -3,10 +3,10 @@
 
  Directory of C:\Study\Git
 
-06/02/2020  02:32 PM    <DIR>          .
-06/02/2020  02:32 PM    <DIR>          ..
+06/02/2020  02:38 PM    <DIR>          .
+06/02/2020  02:38 PM    <DIR>          ..
 06/02/2020  01:54 PM               383 index.html
 06/02/2020  01:54 PM                 8 test1.txt
-06/02/2020  02:32 PM                 0 test2.txt
+06/03/2020  02:19 PM                 0 test2.txt
                3 File(s)            391 bytes
-               2 Dir(s)  46,343,004,160 bytes free
+               2 Dir(s)  46,622,081,024 bytes free
